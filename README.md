@@ -25,13 +25,16 @@
 
 ![MIT Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=white)  
 
-Let me know if you need any more changes! 🚀
 
 
 
 
 ## 📈 GitHub Stats  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=oluokunkabiru&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oluokunkabiru&layout=compact&theme=dark)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oluokunkabiru&theme=dark)  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=oluokunkabiru&theme=github-dark)  
+
 
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile/)  
