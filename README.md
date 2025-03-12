@@ -1,9 +1,26 @@
 # - 👋 Hi, I’m OLUOKUN KABIRU ADESINA 
 @oluokunkabiru
-## 👋 About Me  
-- 👀 I’m passionate about building software for both commercial and private use.  
-- 🌱 Currently learning **Flutter** for mobile development.  
-- 💞️ Open to collaborating on any software development projects that contribute to mutual growth.  
+
+
+# KOADIT  
+
+## 💻 Just Code, Nothing Else  
+
+🚀 No Talk, Just Code  
+👨‍💻 Code Speaks Louder  
+🔥 All About the Code  
+🖥️ Coding is the Only Language to solve world problem
+
+# 👋 About Me  
+- 🚀 Full-stack developer with years of experience in multiple fields, including **fintech, edutech, eCommerce, and reporting systems**.  
+- 🛠️ Passionate about **exploring technology**, creating bugs in my free time just to **learn something new**.  
+- 🎯 Always up for **challenging tasks** and pushing my limits.  
+- 💻 No time for a girlfriend—just me and my system.  
+- 🖥️ Experienced in working with **different operating systems**.  
+- 🔥 Aspiring to become a **great hacker** in the future.
+
+
+
 - 📫 **Reach me via:**  
   📞 [Call/WhatsApp: +2348130584550](https://wa.me/2348130584550)  
   ✉️ [oluokunkabiru2015@gmail.com](mailto:oluokunkabiru2015@gmail.com)  
@@ -38,7 +55,7 @@
 ## 📈 GitHub Stats  
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=oluokunkabiru&show_icons=true&theme=dark)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oluokunkabiru&layout=compact&theme=dark)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oluokunkabiru&theme=dark)  
+<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oluokunkabiru&theme=dark)   -->
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=oluokunkabiru&theme=github-dark)  
 
 
